@@ -21,6 +21,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		<sonar.projectKey>raghulramesh04_Hackathon-jetMS</sonar.projectKey>
+  <sonar.organization>raghulramesh04</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	<sonar.login>ebba6008e39bdb5961a30311a632aea6518494bf</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
